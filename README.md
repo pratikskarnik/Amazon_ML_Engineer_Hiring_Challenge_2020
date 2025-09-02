@@ -1,5 +1,5 @@
 # Amazon_ML_Engineer_Hiring_Challenge_2020
-It is a solution to amazon ml engineer hiring challenge 2020
+It is a solution to amazon ml engineer hiring challenge 2020.
 
 # Problem Statement
 Based on the historical data of a ecommerce website design a classifier to know whether to target the particular user or not and make a presentation proposal for the same.
